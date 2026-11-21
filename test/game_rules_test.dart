@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_085_mini_golf_world/core/arcade.dart';
-import 'package:game_085_mini_golf_world/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_085_mini_golf_world/game/rules.dart';
 import 'package:game_085_mini_golf_world/game/shot_engine.dart';
 

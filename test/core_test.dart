@@ -1,19 +1,19 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_085_mini_golf_world/core/achievements.dart';
-import 'package:game_085_mini_golf_world/core/clock.dart';
-import 'package:game_085_mini_golf_world/core/collection.dart';
-import 'package:game_085_mini_golf_world/core/daily.dart';
-import 'package:game_085_mini_golf_world/core/game_rules.dart';
-import 'package:game_085_mini_golf_world/core/game_session.dart';
-import 'package:game_085_mini_golf_world/core/integrity.dart';
-import 'package:game_085_mini_golf_world/core/level_plan.dart';
-import 'package:game_085_mini_golf_world/core/missions.dart';
-import 'package:game_085_mini_golf_world/core/monetization.dart';
-import 'package:game_085_mini_golf_world/core/progression.dart';
-import 'package:game_085_mini_golf_world/core/rng.dart';
-import 'package:game_085_mini_golf_world/core/save_data.dart';
-import 'package:game_085_mini_golf_world/core/save_store.dart';
-import 'package:game_085_mini_golf_world/core/telemetry.dart';
+import 'package:studio_core/core/achievements.dart';
+import 'package:studio_core/core/clock.dart';
+import 'package:studio_core/core/collection.dart';
+import 'package:studio_core/core/daily.dart';
+import 'package:studio_core/core/game_rules.dart';
+import 'package:studio_core/core/game_session.dart';
+import 'package:studio_core/core/integrity.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/missions.dart';
+import 'package:studio_core/core/monetization.dart';
+import 'package:studio_core/core/progression.dart';
+import 'package:studio_core/core/rng.dart';
+import 'package:studio_core/core/save_data.dart';
+import 'package:studio_core/core/save_store.dart';
+import 'package:studio_core/core/telemetry.dart';
 import 'package:game_085_mini_golf_world/game/rules.dart';
 
 class _FailingSink implements AnalyticsSink {
